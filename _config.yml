@@ -1,10 +1,9 @@
 title: Simran Arora # your name (or website title) here
 logo: "/images/IMG_2458.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello! I'm Sim, a city planning student, a former architect & urban designer, interested in geospatial data science, transportation planning and analysis and economic development. 
+  Hello! I'm Sim, a city planning student, a former architect & urban designer, interested in geospatial data science, transportation planning and analysis and economic development. <a href="https://www.linkedin.com/in/simran-arora-88814015a/">View My LinkedIn Profile</a> 
   <br><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/simran-arora-88814015a/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
