@@ -1,8 +1,24 @@
-## Portfolio
+## About Me
 
 ---
 
-### Category Name 1 
+#### Master of City Planning candidate with three years of professional experience in urban design, planning and project management. Recent internship experience in demographic, economic & real estate analysis and geospatial data development. Interested in application of data science and urban technologies for building safer and liveable cities, and looking for opportunities in the transportation planning, economic development and urban analytics industries. 
+
+### Education
+
+#### University of Pennsylvania, Master of City Planning, expected May 2023
+#### Academy of Architecture, University of Mumbai, Bachelor of Architecture, 2013-2018
+
+### Work Experience
+
+#### U3 Advisors, Graduate Intern, May 2022 - Current
+#### PolicyMap, Data Development Intern, May 2022 - August 2022
+#### StudioPOD, Architect, May 2018 - July 2021
+
+[View my Resume here](/sample_page)
+[View my CV here](/sample_page)
+
+---
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
