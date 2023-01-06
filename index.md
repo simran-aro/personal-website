@@ -44,11 +44,11 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 
 #### Indego Bike Trips in Philadelphia by Census Tract, 2020 & 2021
 
-<div id="hv-chart-1"></div>
+<img src="https://raw.githubusercontent.com/simran-aro/personal-website/master/images/phl_bike_trips.html?raw=true"/>
 
 #### Blue Bikes Bike Trips in Boston by Census Tract, 2020 & 2021
 
-<div id="hv-chart-2"></div>
+
 
 #### Indego System Trips, 2020 and 2021
 
