@@ -13,13 +13,15 @@ Master of City Planning candidate with three years of professional experience in
 
 **U3 Advisors**, Graduate Intern, _May 2022 - Current_
 <br>
+
 **PolicyMap**, Data Development Intern, _May 2022 - August 2022_
 <br>
+
 **StudioPOD**, Architect, _May 2018 - July 2021_
 
-[View my Resume here](/sample_page)
+<a href="https://drive.google.com/file/d/1lxbVIpwdyviCLjeAzYQ6_0M5VQP_A9My/view">View my CV here</a>
 <br><br>
-[View my CV here](/sample_page)
+<a href="https://drive.google.com/file/d/1R7AcC-CK9Dukp1PmDoRdfOn_VtJ1SSsx/view?usp=sharing">View my Resume here</a>
 
 
 
