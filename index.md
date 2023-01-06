@@ -1,3 +1,10 @@
+---
+hv-loader:
+  hv-chart-1: ["/images/phl_bike_pct.html", "600", "500"]
+  hv-chart-2: ["/images/bst_bike_pct.html", "600", "500"]
+
+---
+  
 ## About Me
 
 ---
@@ -33,13 +40,23 @@ Philadelphia and Boston are often ranked in the top 20 bike-friendly cities in t
 This project is divided into three sections:
 The first explores demographic data in a map format. These maps are compared to bike trips marked spatially to see the correlation between the two. The second explores weather data, and distances from various amenities. The article mentions the importance of bike shops, thus, I wanted to specifically add this as a varible. The third uses the random forest machine learning algorithm from Scikit-Learn to see which factors affect trip generation, and their importance. This is compared between the two cities.
 
-## Indego System Trips, 2020 and 2021
+Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, sklearn), GitHub Pages (html)
+
+#### Indego Bike Trips in Philadelphia by Census Tract, 2020 & 2021
+
+<div id="hv-chart-1"></div>
+
+#### Blue Bikes Bike Trips in Boston by Census Tract, 2020 & 2021
+
+<div id="hv-chart-2"></div>
+
+#### Indego System Trips, 2020 and 2021
 
 ![phl-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month.gif)
 
-## Blue Bikes System Trips, 2020 and 2021
+#### Blue Bikes System Trips, 2020 and 2021
 
-![bst-gif]({{ site.url }}{{ site.baseurl }}images/bike_trips_month_bst.gif)
+![bst-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month_bst.gif)
 
 
 
