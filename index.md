@@ -1,10 +1,3 @@
----
-hv-loader:
-  hv-chart-1: ["/images/phl_bike_pct.html", "600", "500"]
-  hv-chart-2: ["/images/bst_bike_pct.html", "600", "500"]
-
----
-  
 ## About Me
 
 ---
@@ -17,7 +10,7 @@ Master of City Planning candidate with three years of professional experience in
 
 **Academy of Architecture**, University of Mumbai, Bachelor of Architecture, _2013-2018_
 
-#### Work Experience
+#### Recent Work Experience
 
 **U3 Advisors**, Graduate Intern, _May 2022 - Current_
 
@@ -25,15 +18,14 @@ Master of City Planning candidate with three years of professional experience in
 
 **StudioPOD**, Architect, _May 2018 - July 2021_
 
-<a href="https://drive.google.com/file/d/1lxbVIpwdyviCLjeAzYQ6_0M5VQP_A9My/view">View my CV here</a>
-<br><br>
-<a href="https://drive.google.com/file/d/1R7AcC-CK9Dukp1PmDoRdfOn_VtJ1SSsx/view?usp=sharing">View my Resume here</a>
 
 Following is some of my work, from geospatial data science, transportation planning analysis, neighborhood profiles to urban design samples. Contact me at arorasim@upenn.edu to connect!
 
 ---
 
 ## [Factors Affecting Bike Trip Generation in Philadelphia & Boston](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
+
+[GitHub Repo](https://github.com/MUSA-550-Fall-2022/final-project-bike-trip-generation-comparison)
 
 Philadelphia and Boston are often ranked in the top 20 bike-friendly cities in the US. Both have bikeshare systems, called Indego and BlueBikes respectively. This project looks at bike share data from both these cities, to explore trip data, demographic data, and which factors affect trip generation in both cities. These are then compared between Philadelphia and Boston to see the similarities and differences. The factors that are of importance in both the cities can be studied further— and used in strategies for bike planning in other places.
 
@@ -42,13 +34,13 @@ The first explores demographic data in a map format. These maps are compared to 
 
 Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, sklearn), GitHub Pages (html)
 
-#### Indego Bike Trips in Philadelphia by Census Tract, 2020 & 2021
+#### Distance of Indego Bike Stations from Educational Institutes in Philadelphia
 
-<div id="hv-chart-1"></div>
+![phl-ed]({{ site.url }}{{ site.baseurl }}/images/phl_ed.png)
 
-#### Blue Bikes Bike Trips in Boston by Census Tract, 2020 & 2021
+#### Distance of Blue Bikes Bike Stations from Educational Institutes in Philadelphia
 
-<div id="hv-chart-2"></div>
+![bst-ed]({{ site.url }}{{ site.baseurl }}/images/bst_ed.png)
 
 #### Indego System Trips, 2020 and 2021
 
