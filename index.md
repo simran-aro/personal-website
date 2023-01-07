@@ -59,11 +59,6 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 
 ![phl-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month.gif)
 
-#### Blue Bikes System Trips, 2020 and 2021
-
-![bst-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month_bst.gif)
-
-
 ---
 
 ### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/visualizing-philly-district-crashes/)
