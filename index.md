@@ -12,6 +12,8 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 
 **Academy of Architecture**, University of Mumbai, Bachelor of Architecture, _2013-2018_
 
+---
+
 ### Recent Work Experience
 
 **U3 Advisors**, Graduate Intern, _May 2022 - Current_
@@ -19,6 +21,8 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 **PolicyMap**, Data Development Intern, _May 2022 - August 2022_
 
 **StudioPOD**, Architect, _May 2018 - July 2021_
+
+---
 
 ### Skills
 
