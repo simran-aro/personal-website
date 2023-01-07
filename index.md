@@ -6,13 +6,13 @@ Master of City Planning candidate with three years of professional experience in
 
 As a planner, urbanist and former architect, I have always enjoyed using maps for storytelling. While studying city planning, I learnt tools like ArcGIS and programming languages that strenghtened my skillset and helped me form narratives to tell stories about people, places and systems. I am currently seeking full-time job opportunities- contact me at **arorasim@upenn.edu**, or connect with me on <a href="https://www.linkedin.com/in/simran-arora-88814015a/">LinkedIn</a> to chat!
 
-#### Education
+### Education
 
 **University of Pennsylvania**, Master of City Planning, _expected May 2023_
 
 **Academy of Architecture**, University of Mumbai, Bachelor of Architecture, _2013-2018_
 
-#### Recent Work Experience
+### Recent Work Experience
 
 **U3 Advisors**, Graduate Intern, _May 2022 - Current_
 
@@ -20,23 +20,22 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 
 **StudioPOD**, Architect, _May 2018 - July 2021_
 
-#### Skills
+### Skills
 
-**Transportation Planning** R (STPLANR)  |  VISUM & VISSIM 
+**Transportation Planning** R (STPLANR) , VISUM & VISSIM 
 
-**Geospatial Data Analysis** ArcGIS | Python | R |  SQL |  JavaScript | ESRI Business Analyst & Field Maps
+**Geospatial Data Analysis** ArcGIS , Python , R , SQL , JavaScript , ESRI Business Analyst & Field Maps
 
-**Design Software** AutoCAD | SketchUp | Adobe Suite (InDesign, Photoshop, Illustrator) | Rhino | Lumion
+**Design Software** AutoCAD , SketchUp , Adobe Suite (InDesign, Photoshop, Illustrator) , Rhino , Lumion
 
-**Urban Design** Street Design | Plaza + Public Parks | Waterfront Design | Design Programming
+**Urban Design** Street Design , Plaza + Public Parks , Waterfront Design , Design Programming
 
-**Other**  Writing | Graphic Design 
+**Other**  Writing , Graphic Design 
 
 
 Following is some of my work, from geospatial data science, transportation planning analysis, neighborhood profiles to urban design samples. Contact me at arorasim@upenn.edu to connect!
 
-<img src="/images/brandra-01.jpg?raw=true"/>
-
+![bandra]({{ site.url }}{{ site.baseurl }}/images/brandra-01.jpg)
 
 ---
 ## Geospatial Data Science
