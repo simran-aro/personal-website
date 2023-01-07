@@ -35,7 +35,7 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 
 Following is some of my work, from geospatial data science, transportation planning analysis, neighborhood profiles to urban design samples. Contact me at arorasim@upenn.edu to connect!
 
-![bandra]({{ site.url }}{{ site.baseurl }}/images/brandra-01.jpg)
+![bandra]({{ site.url }}{{ site.baseurl }}/images/bandra-01.jpg)
 
 ---
 ## Geospatial Data Science
@@ -63,11 +63,15 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 
 ![bst-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month_bst.gif)
 
----
+
+
 
 ### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
 
 [GitHub Repo](https://github.com/MUSA-550-Fall-2022/final-project-bike-trip-generation-comparison)
+
+
+
 
 
 
