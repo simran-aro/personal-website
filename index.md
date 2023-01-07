@@ -4,6 +4,8 @@
 
 Master of City Planning candidate with three years of professional experience in urban design, planning and project management. Recent internship experience in demographic, economic & real estate analysis and geospatial data development. Interested in application of data science and urban technologies for building safer and liveable cities, and looking for opportunities in the transportation planning, economic development and urban analytics industries. 
 
+As a planner, urbanist and former architect, I have always enjoyed using maps for storytelling. While studying city planning, I learnt tools like ArcGIS and programming languages that strenghtened my skillset and helped me form narratives to tell stories about people, places and systems. I am currently seeking full-time job opportunities- contact me at **arorasim@upenn.edu**, or connect with me on <a href="https://www.linkedin.com/in/simran-arora-88814015a/">LinkedIn</a> to chat!
+
 #### Education
 
 **University of Pennsylvania**, Master of City Planning, _expected May 2023_
@@ -18,12 +20,28 @@ Master of City Planning candidate with three years of professional experience in
 
 **StudioPOD**, Architect, _May 2018 - July 2021_
 
+#### Skills
+
+**Transportation Planning** R (STPLANR)  |  VISUM & VISSIM 
+
+**Geospatial Data Analysis** ArcGIS | Python | R |  SQL |  JavaScript | ESRI Business Analyst & Field Maps
+
+**Design Software** AutoCAD | SketchUp | Adobe Suite (InDesign, Photoshop, Illustrator) | Rhino | Lumion
+
+**Urban Design** Street Design | Plaza + Public Parks | Waterfront Design | Design Programming
+
+**Other**  Writing | Graphic Design 
+
 
 Following is some of my work, from geospatial data science, transportation planning analysis, neighborhood profiles to urban design samples. Contact me at arorasim@upenn.edu to connect!
 
----
+<img src="/images/brandra-01.jpg?raw=true"/>
 
-## [Factors Affecting Bike Trip Generation in Philadelphia & Boston](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
+
+---
+## Geospatial Data Science
+
+### [Factors Affecting Bike Trip Generation in Philadelphia & Boston](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
 
 [GitHub Repo](https://github.com/MUSA-550-Fall-2022/final-project-bike-trip-generation-comparison)
 
@@ -34,13 +52,9 @@ The first explores demographic data in a map format. These maps are compared to 
 
 Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, sklearn), GitHub Pages (html)
 
-#### Distance of Indego Bike Stations from Educational Institutes in Philadelphia
+#### Distances of bike stations from various amenities in Philadelphia and Boston
 
-![phl-ed]({{ site.url }}{{ site.baseurl }}/images/phl_ed.png)
-
-#### Distance of Blue Bikes Bike Stations from Educational Institutes in Philadelphia
-
-![bst-ed]({{ site.url }}{{ site.baseurl }}/images/bst_ed.png)
+![dist]({{ site.url }}{{ site.baseurl }}/images/bike-distances-01.jpg)
 
 #### Indego System Trips, 2020 and 2021
 
@@ -49,6 +63,13 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 #### Blue Bikes System Trips, 2020 and 2021
 
 ![bst-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month_bst.gif)
+
+---
+
+### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
+
+[GitHub Repo](https://github.com/MUSA-550-Fall-2022/final-project-bike-trip-generation-comparison)
+
 
 
 
