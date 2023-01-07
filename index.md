@@ -64,7 +64,7 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 ![bst-gif]({{ site.url }}{{ site.baseurl }}/images/bike_trips_month_bst.gif)
 
 
-
+---
 
 ### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/visualizing-philly-district-crashes/)
 
@@ -77,6 +77,9 @@ PennDOT collects and shares data on crashes for every year to increase education
 To create the crash index, the number of crashes per street was divided by the lenght of the street. This number was log transformed and then normalized into an index. The lower the number the more dangerous the street is. The frequency of the index is visualized in the graphs below, for every district.
 
 ![crashind]({{ site.url }}{{ site.baseurl }}/images/crashind.PNG)
+
+
+---
 
 ### [Normalized Difference Vegetation Index for Philadelphia vs Suburbs](https://github.com/MUSA-550-Fall-2022/assignment-3-simran-aro)
 
