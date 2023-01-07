@@ -66,9 +66,22 @@ Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, skl
 
 
 
-### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
+### [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/visualizing-philly-district-crashes/)
 
 [GitHub Repo](https://github.com/MUSA-550-Fall-2022/final-project-bike-trip-generation-comparison)
+
+PennDOT collects and shares data on crashes for every year to increase education and awareness around safety. This data can be found [here](https://www.penndot.pa.gov/TravelInPA/Safety/pages/crash-facts-and-statistics.aspx). In this project, data from PennDOT was analyzed for three Philadelphia districts: North, Central and South. This project aims to create spatial components for this data to visualize where crashes are happening, and to create a crash index. This was done with the help of several packages developed for geospatial analysis in Python including OSMnx and folium, along with other packages like matplotlib, geopandas and altair to create charts.
+
+![crash]({{ site.url }}{{ site.baseurl }}/images/crashdat.PNG)
+
+To create the crash index, the number of crashes per street was divided by the lenght of the street. This number was log transformed and then normalized into an index. The lower the number the more dangerous the street is. The frequency of the index is visualized in the graphs below, for every district.
+
+![crashind]({{ site.url }}{{ site.baseurl }}/images/crashind.PNG)
+
+### [Normalized Difference Vegetation Index for Philadelphia vs Suburbs](https://github.com/MUSA-550-Fall-2022/assignment-3-simran-aro)
+
+
+
 
 
 
