@@ -33,7 +33,7 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 **Other**  Writing , Graphic Design 
 
 
-Following is some of my work, from geospatial data science, transportation planning analysis, neighborhood profiles to urban design samples. Contact me at arorasim@upenn.edu to connect!
+Following is some of my geospatial data science work, covering topics from transportation to housing. Click on every title to check out their separate project pages.
 
 ![bandra]({{ site.url }}{{ site.baseurl }}/images/bandra-01.jpg)
 
