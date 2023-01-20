@@ -42,7 +42,6 @@ Following is some of my geospatial data science work, covering topics from trans
 ![bandra]({{ site.url }}{{ site.baseurl }}/images/bandra-01.jpg)
 
 ---
-## Geospatial Data Science
 
 ### [Factors Affecting Bike Trip Generation in Philadelphia & Boston](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/)
 
@@ -53,7 +52,7 @@ Philadelphia and Boston are often ranked in the top 20 bike-friendly cities in t
 This project is divided into three sections:
 The first explores demographic data in a map format. These maps are compared to bike trips marked spatially to see the correlation between the two. The second explores weather data, and distances from various amenities. The article mentions the importance of bike shops, thus, I wanted to specifically add this as a varible. The third uses the random forest machine learning algorithm from Scikit-Learn to see which factors affect trip generation, and their importance. This is compared between the two cities.
 
-Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, sklearn), GitHub Pages (html)
+**Skills used: Python (geopandas, hvplot, OSMnx, cenpy, datashader, carto2gpd, sklearn), GitHub Pages (html)**
 
 #### Distances of bike stations from various amenities in Philadelphia and Boston
 
@@ -77,46 +76,22 @@ To create the crash index, the number of crashes per street was divided by the l
 
 ![crashind]({{ site.url }}{{ site.baseurl }}/images/crashind.PNG)
 
-
----
-
-### [Normalized Difference Vegetation Index for Philadelphia vs Suburbs](https://github.com/MUSA-550-Fall-2022/assignment-3-simran-aro)
-
-
-
-
-
-
-
-
-
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+**Skills used: Python (geopandas, hvplot, OSMnx, altair, folium), GitHub Pages (html)**
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### [Exploring Origin-Destination Demographics for University City, Philadelphia](https://simran-aro.github.io/O-D-university-city-phl/)
+
+[GitHub Repo](https://github.com/simran-aro/O-D-university-city-phl)
+
+[STPLANR](https://cran.r-project.org/web/packages/stplanr/vignettes/stplanr.html) is a package that can be used for travel behavior analysis using spatil data. An example of travel behavior is looking at **who** is travelling to where jobs are. This can answer several questions and help plan for public transit, demand and so on. This project looks at origin-destination data of Pennsylvania from 2017, and visualizes the demographics of travellers.
+
+For this project the study area is University City, a neighborhood in West Philadelphia consisting of University of Pennsylvania (Penn), Drexel University as well as hospitals associated with Penn and housing, restaurants and other amenities. The unit of analysis was by census tract level. The census tracts used for this study are shown in the map below, and include the entire neighborhood of University City, with some extending beyond. Census Tract 42101980000 has a large boundary that includes Fairmount Park, but was used in this analysis since it captures the northeast part of University City. Additionally, a small number of households (if at all) are in Fairmount Park, thus too many outliers are not expected by including it.
+
+![ct]({{ site.url }}{{ site.baseurl }}/images/ct.png)
+
+![pa_od]({{ site.url }}{{ site.baseurl }}/images/PA_OD.PNG)
+
+**Skills used: R (STPLANR, tidycensus, dplyr), GitHub Pages (html)**
+
