@@ -91,7 +91,7 @@ For this project the study area is University City, a neighborhood in West Phila
 
 ![ct]({{ site.url }}{{ site.baseurl }}/images/ct.png)
 
-![pa_od]({{ site.url }}{{ site.baseurl }}/images/PA_OD.PNG)
+![pa_od]({{ site.url }}{{ site.baseurl }}/images/pa_OD.png)
 
 **Skills used: R (STPLANR, tidycensus, dplyr), GitHub Pages (html)**
 
