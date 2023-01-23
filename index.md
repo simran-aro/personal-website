@@ -18,7 +18,6 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 
 [Factors Affecting Bike Trip Generation in Philadelphia & Boston](https://simran-aro.github.io/MUSA-550-Trip-Generation-Comp/) | [Visualizing Philadelphia's Crash Data](https://simran-aro.github.io/visualizing-philly-district-crashes/) | [Exploring Origin-Destination Demographics for University City, Philadelphia](https://simran-aro.github.io/O-D-university-city-phl/)
 
----
 
 ### Recent Work Experience
 
