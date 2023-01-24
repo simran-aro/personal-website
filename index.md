@@ -43,7 +43,7 @@ As a planner, urbanist and former architect, I have always enjoyed using maps fo
 
 Following is some of my geospatial data science work, covering topics from transportation to housing. Click on every title to check out their separate project pages.
 
-![bandra]({{ site.url }}{{ site.baseurl }}/images/bandra-01.jpg)
+![bandra]({{ site.url }}{{ site.baseurl }}/images/hillroad.png)
 
 ---
 
